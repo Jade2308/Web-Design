@@ -294,3 +294,29 @@ label.star:before {
     border-radius: 5px;
     border: 1px solid rgb(197, 191, 191);
 }
+.hieu-ung-anh img {
+    animation :animation 3s infinite linear; 
+}
+
+.hieu-ung-anh img:nth-child(1)
+{
+    animation-delay: 0s;
+}
+.hieu-ung-anh img:nth-child(2)
+{
+    
+    animation-delay: 2s;
+}
+
+@keyframes animation {
+    0%{
+        transform:translateY(0px);
+    }
+    50%{
+        transform: translateY(-20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+    
+}
