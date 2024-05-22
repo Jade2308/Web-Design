@@ -14,16 +14,20 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <title>Details</title>
     <style>
-        .anh-bia {
-            background-image: url('./anh_Dubai2.jpg');
-            background-size: cover;
-            height: 300px;
+        .anh-bia-style {
+          position: relative;
+          z-index: 0;
         }
-        .img {
+        .anh-bia {
+          background-image: url(./anh_Dubai3.jpg);
+          width: 100%;
+          height: 100%;
+        }
+        /* .img {
             object-fit: cover;
             max-width: 100%;
             height: auto;
-        }
+        } */
     </style>
 </head>
 <body>
@@ -61,8 +65,8 @@
             </div>
             </nav>
       </div>
-      <div class="container-fluid p-5 text-white text-center anh-bia">
-        <h1 style=" font-size: 70px; font-family: 'Times New Roman', Times, serif">Essence of Dubai</h1>
+      <div class="anh-bia anh-bia-style" style="height: 500px;">
+        <h1 style=" font-size: 70px; font-family: 'Times New Roman', Times, serif; color: white; text-align: center; line-height: 500px">Essence of Dubai</h1>
       </div>
     </div>
 </body>
