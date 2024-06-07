@@ -1,0 +1,338 @@
+.logo {
+    margin: 30px 60px;
+}
+.menu {
+    margin-top: 25px;
+}
+.navbar-nav .nav-link {
+    color:black;
+}
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+.dieuhuong {
+    position:fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    background-color: rgb(255, 255, 255); 
+}
+.anh-bia-style {
+    position: relative;
+    z-index: 0;
+}
+.anh-bia {
+    background-image: url(./bai_bien\ \(3\)\ \(1\).jpg);
+    width: 100%;
+    height: 100%;
+}
+.css-1wv1v4a {
+    margin-top: 80px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.css-eu37z5 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    min-height: inherit;
+    height: 100%;
+    max-width: 1232px;
+}
+.css-1u2x8w9.teko-col {
+    position: relative;
+    max-width: 100%;
+    min-height: 1px;
+}
+.css-em4mod {
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
+.css-1vho6g3 {
+    display: grid;
+    -webkit-align-self: stretch;
+    -ms-flex-item-align: stretch;
+    align-self: stretch;
+    gap: 16px;
+    row-gap: 16px;
+    column-gap: 16px;
+}
+.css-1tp5qjx {
+    position: relative;
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background-color: transparent;
+}
+.css-1pqlp7z {
+    position: relative;
+    -webkit-flex: 1 0 auto;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: auto;
+}
+.css-13gmder {
+    position: relative;
+    margin-bottom: 4px;
+}
+.css-43e1ba {
+    text-align: center;
+    display: inline-block;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: absolute;
+    height: 100%;
+    inset: 0;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+.css-12djb8 {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}
+.css-12djb8 {
+    max-width: 100%;
+    vertical-align: top;
+    display: inline-block;
+    -webkit-transition: -webkit-transform 0.3s;
+    transition: transform 0.3s;
+    overflow: hidden;
+    position: relative;
+    object-fit: cover;
+    object-position: inherit;
+}
+.css-qi53z0 {
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+/*    border-top-left-radius: ;
+    border-top-right-radius: ;
+    border-bottom-right-radius: ;
+    border-bottom-left-radius: ; */
+    object-fit: inherit;
+    aspect-ratio: auto 16 / 9;
+}
+.css-1s12f78.detail-card.left .detail-card__name {
+    text-align: left;
+}
+.css-4zl2s5 {
+    color: rgba(26, 158, 168, 1);
+    font-size: 20px;
+}
+.css-4zl2s5 {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    font-weight: 700;
+}
+.css-1s12f78.detail-card.left .detail-card__price, .css-1s12f78.detail-card.left .detail-card__extra {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+}
+.css-ov1ktg {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.css-1ubrfu4 {
+    color: rgba(0, 0, 0, 1);
+    font-size: 14px;
+}
+.css-1ubrfu4 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+}
+.css-1plrovb {
+    margin-left: 8px;
+}
+.css-1xq3er {
+    padding: 0 4px;
+    color: #ffffff;
+    background-color: #e40303;
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: 700;
+    border-radius: 2px;
+}
+.css-1s12f78.detail-card.left .detail-card__extra {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+}
+.css-1y2jup1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-column-gap: 8px;
+    column-gap: 8px;
+}
+.css-1c9szl4.tempi-rate {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: normal;
+    font-style: normal;
+    outline: none;
+    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;
+}
+.css-1c9szl4.tempi-rate-disabled .tempi-rate-star {
+    cursor: default;
+}
+.css-1c9szl4 .tempi-rate-star {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    display: inline-block;
+    margin-right: 2px;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    transition: all 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    color: #e9e9e9;
+    cursor: pointer;
+    line-height: 1.5;
+}
+.css-1c9szl4 .tempi-rate-star-first {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    opacity: 0;
+}
+.css-1c9szl4 .tempi-rate-star-full .tempi-rate-star-second {
+    color: #fadb14;
+}
+.css-1c9szl4 .tempi-rate-star-first, .css-1c9szl4 .tempi-rate-star-second {
+    -webkit-transition: all 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    transition: all 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
+.css-1jrix3a {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.css-1jrix3a {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.css-eu37z5.teko-row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.css-eu37z5 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    min-height: inherit;
+    height: 100%;
+    max-width: 1232px;
+}
+.css-eu37z5 {
+    -webkit-align-items: flex-start;
+    -webkit-box-align: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+}
+.css-1u2x8w9.teko-col {
+    position: relative;
+    max-width: 100%;
+    min-height: 1px;
+}
+@media (min-width: 768px) {
+    .css-1u2x8w9 {
+        -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100% !important;
+    }
+}
