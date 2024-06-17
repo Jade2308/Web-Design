@@ -64,6 +64,7 @@
   flex-shrink: 0;
   flex-basis: 100%;
   max-width: 100% !important;
+  float: left;
 }
 .css-em4mod {
   padding-left: 15px;
@@ -471,6 +472,7 @@
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
     max-width: 100% !important;
+    float: right;
 }
 .css-a6tatn {
     border-radius: 16px;
