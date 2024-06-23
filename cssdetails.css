@@ -1,3 +1,92 @@
+.chiadoi {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    background-color: #fff;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.left-column {
+    flex: 8;
+}
+
+.right-column {
+    flex: 4;
+}
+
+/* Chia 5 */
+
+.chianam {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-container {
+    display: grid;
+    width: 100%;
+    max-width: 1200px;
+    background-color: #fff;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.column5 {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* Chia 2 */
+
+.chiahai {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.grid-container2 {
+    display: grid;
+    width: 100%;
+    max-width: 1200px;
+    background-color: #fff;
+    grid-template-columns: 1fr 1fr;
+}
+
+.column2 {
+    box-sizing: border-box;
+    text-align: center;
+}
+.column2:nth-child(1) {
+    margin-right: 5px;
+}
+
+.column2:nth-child(2) {
+    margin-left: 5px;
+}
 .anh-bia-style {
   position: relative;
   z-index: 0;
@@ -7,11 +96,7 @@
   width: 100%;
   height: 100%;
 }
-/* .img {
-    object-fit: cover;
-    max-width: 100%;
-    height: auto;
-} */
+
 .css-1wv1v4a {
   margin-top: 80px;
   padding-top: 8px;
@@ -608,6 +693,23 @@ button:not(:disabled), [type='button']:not(:disabled), [type='reset']:not(:disab
     font-size: inherit;
     line-height: inherit;
 }
+.custom-button {
+    background-color: rgba(26, 158, 168, 1); /* Màu nền */
+    border: none; /* Không viền */
+    color: white; /* Màu chữ */
+    padding: 15px 32px; /* Đệm */
+    text-align: center; /* Căn giữa văn bản */
+    text-decoration: none; /* Không gạch chân */
+    display: inline-block; /* Hiển thị dạng khối nội tuyến */
+    font-size: 16px; /* Kích thước chữ */
+    margin: 4px 2px; /* Lề */
+    cursor: pointer; /* Con trỏ chuột */
+    border-radius: 8px; /* Bo tròn góc */
+}
+.custom-button:hover {
+    background-color: rgb(16, 129, 137); /* Màu nền khi hover */
+}
+
 .css-157jl91 {
     position: absolute;
     top: 0;
