@@ -396,7 +396,6 @@
     display: -ms-flexbox;
     display: flex;
     white-space: nowrap;
-    overflow-x: scroll;
     gap: 8px;
 }
 .css-11d9ipj.active {
@@ -434,7 +433,7 @@
     height: 100%;
 }
 .css-mjf1vo {
-    margin-top: 16px;
+    margin-top: 30px;
 }
 @media (min-width: 768px) {
     .css-mjf1vo .fs-desktop {
